@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="169" height="34" viewBox="0 0 169 34" role="img" aria-label="activity" fill="none">
+<title>activity</title>
+<style>
+@font-face{font-family:'JetBrainsMono-mono';font-style:normal;font-weight:500;src:url(data:font/woff2;base64,d09GMgABAAAAAAO8ABAAAAAAB4QAAANhAAI2BAAAAAAAAAAAAAAAAAAAAAAAAAAAGiAbIBwqBmA/U1RBVEwAZBEICoNogxEBNgIkAygLFgAEIAWEKAcgDAcbAwZRlDDKMoCfCZmbHpqVuEbcIrZz5Gc9i2PF1BRvx/P8r5n3/ZlkuYAkgchFFRSzZV3jawmMRUXHb13g/ud2qEQS78cpFkWbepv6DcmdGvnRv0xa59Vmfq3xNFXSBI7CYVnbUf0PIA3b57mm3r8oOsAGOaFDzJVNz+YVli0ywAlEedGAG/gE90Zk022IRFGAqKXL4v/vSjAMiOgTEQQRDJqlKbF77/oMeTX0/gHBoCUoScxy1Utn0IUGEg7XpZVRDcqLkgUcmq/OSb0EgcIAZY2/yMGdAD43z7dqd9+p2lkFBMqSIsI8GRH9CiZJYpHk3bM6JnD+lmAnxoraNElII6PkK6UFVKJkHEBAQYVJUoJJ0o4D49SlMI9AYkAv3x5vuL1/5s2ZNKBfb0GmSK9nLHHQ8UlAP17gFYZHGsqOkbyhGzbqgwFRlVeQS+/8xGw+AGa/ks57LcLnQ9cHEiOY2LLeM7r4GIdSiPVSjLWrXT1IkE5mRX5GiPWy8c0Q3t8BgzjB8mKA5LEJvOQBFwEiYizoOwoge+JAe+pINxfy0jOFWMDSKRXVnReYfQld54h19i2bQbPiEyqy8iZc7RvN554mVslEt2Xm0kaa3lFZqqLqlxthm+IT4+MQNWYjb2XTjxxlw8pcPIqC+0M8Cstcwpj2crHsGocjV88frwGvX0/XI4casez2cnSCXtN1qnx3QNG52NTkaOtxOj5VM8WnfGtvz1GKfp+Y1zUU7io4Byv01hXW0olo6yjh7V6yvcmd4Qc785lq92YQIlue6bCh0bCp3IWR4bAJyhJpNA2MUwecAGVVpSAoa+uvreU9hWM3/++vqn/w7auT8McRtKYXh5do1oDwiSZLC8F3n3rcphKD0cTTYogtc0AXbbSygF8/ltMWmSKZy/cdG/JCJfUA3rM2YoWfUYzxx6hs9B+tcUbDjDjoTcsSVRWGc43QYB5hLPPsunGKeWkXj+8rZNDoENHTsQFx9kJJLPne0FxIYHBFiA2Py0PshTwmhQQRMzGk84QiBEWHkC/S19amMVAhx0QtEo+j7aTu/ujZ89A3+2U3FDJDzHGk0MRsglBPS09X18DS3KCM87lwTYciBo0QHkwW3KJPuy32pRaQwGaQHHkcAlcK6JXqAaFKX+f/8eoeAAA=) format('woff2');}
+</style>
+<g transform="translate(84.5 17.0)"><rect x="-82.9" y="-15" width="165.8" height="30" rx="15" fill="#151820" stroke="#2A2E36"/>
+<circle cx="-61.4" cy="0" r="3.5" fill="#5E636D"/>
+<line x1="-43.9" y1="-7" x2="-43.9" y2="7" stroke="#2A2E36"/>
+<path d="M-28.9 -4 L-21.9 0 L-28.9 4 Z" fill="#C9CCD2"/>
+<line x1="-6.9" y1="-7" x2="-6.9" y2="7" stroke="#2A2E36"/>
+<text x="6.1" y="4.2" font-family="'JetBrainsMono-mono',ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" letter-spacing="0.4" fill="#C9CCD2">activity</text></g>
+</svg>

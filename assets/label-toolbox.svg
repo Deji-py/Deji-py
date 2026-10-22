@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="162" height="34" viewBox="0 0 162 34" role="img" aria-label="toolbox" fill="none">
+<title>toolbox</title>
+<style>
+@font-face{font-family:'JetBrainsMono-mono';font-style:normal;font-weight:500;src:url(data:font/woff2;base64,d09GMgABAAAAAAOEABAAAAAABvwAAAMoAAI2BAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbIBwqBmA/U1RBVEwAXBEICoMQglwBNgIkAxALEAAEIAWEKAcgDAcbpAVRVDDCCH4exsb0pkrUyirZgZfs08CUWhPx7XJ76soTSvA8r1d/7pvMIlnIJcHPzlJrtFCHanG1phtCHZU5GWAFDO4JL3O/n6TaV6kaXZSD7eQmZv0PYC596qY2FsEkDHUsK32Ms0XRmiYJRAUUSJcWBRhotIgo85Zb9ozNypxMeiRtAAFsAACFoNAQBNDxkebJna7PEEYDGB8HAAF0wmR4uX7JiRzakKJhxjXV6PmLGdRK1QhASRyWdqjVB1BgjREKv0jxAXBfgO+OjL2GaUQKAAFQYfMHAgQQBCsU4MILhPBOU1T0AEPPmR57BA0PXgAxy1+Qh1CNAJgQlDgAQABQgAlw4UMAF34KAXZYobAgAM9Eod3vuJif4fbZarP11iTgroKMyx4ASwDsAEtgHsB+AEB7CCzr4m5n72Tn7NG18q1E6uhmg1ojYsE7Y9UbmP+6ftUrkQUv9ZXPYf4L25Vv34pJF1tt/h3DoGtsyIqksiaoBMNwELau5hvxGC3NRt2WHa7bdrk3GI1Nev3WnW6bt7vUVlvnVhRnDboPTfho7lHzPAezKotzanqmdO7q6JkyrS3udvL65NtxMWcT1yeeZVZMSURUSfSLy90BMQGx/ie7yVvl9sTEdWStzY5r74nJHfLas9dmxXUskdOecDtpbfKthPhHyWuTHjNYUlNVFLm9e/uuibvedb/LJiVs7SZ/3/uy9ezObRM+1iM+TsDeZl/W73nNHj484Us98c+sCYcBQAAVr+2aW2vqsE/9Z+UzfQd82tGdAF9dgu/4f1VUHwWABQoAgU+zVCNFySe8UCTA01nCW1V5gIgZWpRgpgxWMiGaNXAbM0aI8sso7PjKmEj2X9ZYxoxXJdqCiOYBARuZCtiMz4bt8eXzHERlMzmolx+MRqFCRE3FA+KcwNIWlyRoiOFobA5ig7JRxB5D6SQCRAy4kIpiHESGCqEXR1NZmUIjT3bxSgSUpWxbcqbt75I97stuSEQal+VIonCZOExNSU1VVcvSUKtVi3Xw1WEcGkqk51ME37SLR/LrLiCOSSM4oiwcmw8AxvvU/sl9vfEl57U1AAAA) format('woff2');}
+</style>
+<g transform="translate(81.0 17.0)"><rect x="-79.1" y="-15" width="158.2" height="30" rx="15" fill="#151820" stroke="#2A2E36"/>
+<circle cx="-57.6" cy="0" r="3.5" fill="#5E636D"/>
+<line x1="-40.1" y1="-7" x2="-40.1" y2="7" stroke="#2A2E36"/>
+<path d="M-25.1 -4 L-18.1 0 L-25.1 4 Z" fill="#C9CCD2"/>
+<line x1="-3.1" y1="-7" x2="-3.1" y2="7" stroke="#2A2E36"/>
+<text x="9.9" y="4.2" font-family="'JetBrainsMono-mono',ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" letter-spacing="0.4" fill="#C9CCD2">toolbox</text></g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="LinkedIn" fill="none">
+<title>LinkedIn</title>
+<style>
+@font-face{font-family:'Inter-sans-x';font-style:normal;font-weight:700;src:url(data:font/woff2;base64,d09GMgABAAAAAAM4ABAAAAAABowAAALcAAQAQgAAAAAAAAAAAAAAAAAAAAAAAAAAGhgbgSQcKgZgP1NUQVRaAEQRCAqBNIErATYCJAMYCw4ABCAFhA4HIAwHG10FKB6DbbN5JDFYYxGJ6M3Pf3/9/ieC+P3+N3uuoKYhQVf3UIh4JdG+JESzJ3v/t9b+zO0hoptO1BGTPdM5TCpUjTRPUPV1s0r+F9pNnAtoNy3Atc25EiTB8zMB/80iOQNkNJC/1zcZiL16a+Ih50lyyd2lyk2BhoAQMoEQqG+iUdRMT+cgNCzcno4CZ+kGJgKcVfNJHDgoqIBErSStZNJxKOH8rAICJBBy9dQV6goJdSUdUehJBMsAQEhCJtpoJgXFeuPBekk4sO4eAJAXBfhOQTEif8GNgZFee5nu/jtFBiQ5AgBmze4agFNdxes8/a8Add+kAwTkc9if6KpICHVlaImFgfDaZGYN6cDWpUGCEMRyMhdFNsBKzbVASKFXghDEqHSHTJLCDoAACXs9cCJlKFBXXQldhcQrlFQqn51ULgsAISqUghI0RIY+wDigYdf01clEXtuwML84L0IV8bZjBX+1hfvVP5A3ZO/WFOxVfa+fqEG7yiTYV7UzLZp2deQo3tKBqmku3L+5dmbT9aLpu4OvRBeD4eyMdX60JqBi0TfXzJjNRllyuWZH7bbZMcC9YZSKb2yADSCelT0h5KbXO3u4eqbU9Dsv8gA+dvQcfHVbkQb5zo1FmQSCZ32pmAqp/+p8PQ+ktCxsyIeFUhnayf+kGF/AAYFSG0hTWACAJNDIA5nI84FzTIhQ3zkiqeuGn+m/ReRaeiYKo/3jpZZRE0MIGoYAhFqeG4ROXWgIvbzoVm0AhrNgh4KYB6eEpFVpIQFBBE1BRk6DNiiIQWsTRzDSaL3SEsIYC7SFXRYRlJCWQeOxup1IyjCQkgoIIYKy5kksSIiRQo11vlTIY5jvN98hIWqRioQs1qdG/QZ0GWBMlni9WQFpfXgKZ4TG42hLIZwtpmlsFa0FMvOdPfwRzKU290giQhbMiaINMMMahpzT0TaEW9P7j/7ZnDgW8P+FlyT4OCo/yk8DAAA=) format('woff2');}
+</style>
+<defs><linearGradient id="hl" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#FFFFFF" stop-opacity="0.28"/><stop offset="0.55" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient></defs>
+<rect x="4" y="4" width="56" height="56" rx="16" fill="#2F6FD8"/>
+<rect x="4" y="4" width="56" height="56" rx="16" fill="url(#hl)"/>
+<rect x="4.5" y="4.5" width="55" height="55" rx="15.5" stroke="#FFFFFF" stroke-opacity="0.18"/>
+<text x="32" y="41.5" text-anchor="middle" font-family="'Inter-sans-x',-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-weight="700" font-size="25" letter-spacing="-0.5" fill="#FFFFFF">in</text>
+</svg>

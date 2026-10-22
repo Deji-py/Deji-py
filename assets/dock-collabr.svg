@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="Collabr" fill="none">
+<title>Collabr</title>
+<style>
+
+</style>
+<defs><linearGradient id="hl" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#FFFFFF" stop-opacity="0.28"/><stop offset="0.55" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient></defs>
+<rect x="4" y="4" width="56" height="56" rx="16" fill="#CDB8FF"/>
+<rect x="4" y="4" width="56" height="56" rx="16" fill="url(#hl)"/>
+<rect x="4.5" y="4.5" width="55" height="55" rx="15.5" stroke="#FFFFFF" stroke-opacity="0.18"/>
+<g transform="translate(4 4)"><circle cx="23" cy="28" r="10" stroke="#0B0C0E" stroke-width="2.6"/><circle cx="33" cy="28" r="10" stroke="#0B0C0E" stroke-width="2.6"/></g>
+</svg>
