@@ -1,4 +1,4 @@
-<!-- Deji-py · neumorphic profile. Panels live in /assets (light + dark).
+<!-- Deji-py · neumorphic profile. Panels live in /assets (light + dark)
      Edit copy in scripts/build_static.py, then run: python scripts/build_static.py
      The stats panel is rebuilt daily by .github/workflows/stats.yml -->
 
